@@ -201,7 +201,7 @@ const loginFormRef = ref<FormInstance>();
 const loading = ref(false);
 const rememberMe = ref(false);
 const loginType = ref("account");
-const qrCodeUrl = ref("https://img.shiyit.com/qrcode.jpg");
+const qrCodeUrl = ref("");
 const qrCodeExpired = ref(false);
 
 const showSliderVerify = ref(false);

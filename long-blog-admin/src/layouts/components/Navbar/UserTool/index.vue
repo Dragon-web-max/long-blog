@@ -28,7 +28,7 @@
               </div>
               
               <div class="user-details">
-                <div class="nickname">{{ userStore.user.username }}</div>
+                <div class="nickname">{{ userStore.user.nickname }}</div>
               </div>
             </div>
           </div>

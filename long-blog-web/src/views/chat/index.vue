@@ -35,7 +35,7 @@
       <div class="nav-bottom">
         <a
           class="nav-item"
-          href=""
+          href="https://github.com/Dragon-web-max/long-blog"
           target="_blank"
           title="查看源码"
         >
