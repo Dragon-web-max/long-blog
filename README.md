@@ -27,19 +27,19 @@
 
 ## 🖥️ 界面预览
 
-![main](public\main.png)
+![main](public/main.png)
 
 ![image-20250716131710162](public/1.png)
 
-![2](public\2.jpg)
+![2](public/2.jpg)
 
-![3](public\3.jpg)
+![3](public/3.jpg)
 
-![4](public\4.jpg)
+![4](public/4.jpg)
 
-![5](public\5.jpg)
+![5](public/5.jpg)
 
-![6](public\6.jpg)
+![6](public/6.jpg)
 
 ## ⚙️ 技术栈
 
