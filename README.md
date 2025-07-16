@@ -83,8 +83,7 @@ npm start
 如有任何问题或建议，请通过以下方式联系：
 
 - 邮箱：522910252@qq.com
-- 问题追踪：[GitHub Issues](https://github.com/yourusername/your-blog-repo/issues)
-- 博客留言板：[在线留言](https://yourblog.com/guestbook)
+- 问题追踪：[GitHub Issues](https://github.com/Dragon-web-max/long-blog/issues)
 
 ---
 
