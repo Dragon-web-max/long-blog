@@ -2,10 +2,9 @@
 
 ## 📝 项目简介
 
-欢迎使用这个简洁优雅的开源博客系统！本博客以"生活不止眼前的苟且，还有代码和远方"为理念，旨在为创作者提供一个简洁高效的写作平台。项目已在 GitHub 开源，您可以根据自己的需求自由定制和扩展。
+欢迎使用这个简洁优雅的开源博客系统！本博客以"生活不止眼前的苟且，还有代码和远方"为理念，旨在为创作者提供一个简洁高效的写作平台。项目已在 GitHub 开源，您可以根据自己的需求自由定制和扩展，也有后台管理功能，来管理自己发布的的文章！
 
 [![GitHub stars](https://img.shields.io/github/stars/Dragon-web-max/long-blog?style=social)](https://github.com/yourusername/your-blog-repo)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## ✨ 主要功能
 
@@ -28,7 +27,19 @@
 
 ## 🖥️ 界面预览
 
-![main](C:\Users\52291\Desktop\博客\long-blog\public\main.png)
+![main](public\main.png)
+
+![image-20250716131710162](public/1.png)
+
+![2](public\2.jpg)
+
+![3](public\3.jpg)
+
+![4](public\4.jpg)
+
+![5](public\5.jpg)
+
+![6](public\6.jpg)
 
 ## ⚙️ 技术栈
 
@@ -43,10 +54,11 @@
 ### 本地开发
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/your-blog-repo.git
+git clone https://github.com/Dragon-web-max/long-blog.git
 
 # 安装依赖
-cd your-blog-repo
+cd long-blog
+cd long-blog-web
 npm install
 
 # 启动开发服务器
@@ -61,24 +73,6 @@ npm run build
 # 启动服务
 npm start
 ```
-
-### Docker 部署
-```bash
-docker build -t my-blog .
-docker run -d -p 8080:80 --name blog-container my-blog
-```
-
-## 🌱 贡献指南
-
-欢迎任何形式的贡献！请遵循以下步骤：
-
-1. Fork 项目仓库
-2. 创建新分支 (`git checkout -b feature/your-feature`)
-3. 提交修改 (`git commit -am 'Add some feature'`)
-4. 推送到分支 (`git push origin feature/your-feature`)
-5. 创建 Pull Request
-
-请确保代码遵循项目中的 ESLint 规则，并为新功能添加适当的测试。
 
 ## 📜 许可证
 
